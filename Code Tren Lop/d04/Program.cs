@@ -50,6 +50,8 @@ namespace d04
                     case "3":
                         Console.WriteLine("{0}",atmACC);
                         break;
+                    case "4":
+                        return;
                 }
                 Console.WriteLine("\nBam 1 phim bat ky de tiep tuc");
                 Console.ReadKey();

@@ -10,6 +10,10 @@ namespace Banking
     {
         private string AccNo;
         private int Balance;
+        public ATMAccount()
+        {
+            Input();
+        }
 
         //Property pAccNo cho AccNo
         public string pAccNo
@@ -80,7 +84,7 @@ namespace Banking
             {
                 Console.WriteLine("Nhap ma TK [ACC-xxxx]: ");
                 pAccNo = Console.ReadLine().Trim();
-                if (AccNo.Length > 0) { break; }
+                if (AccNo !=null) { break; }
             }
 
             while (true)
@@ -89,6 +93,11 @@ namespace Banking
                 pDeposit = int.Parse(Console.ReadLine());
                 if (Balance > 100) { break; }
             }
+        }//Ket thuc input
+
+        public override string ToString()
+        {
+            return string.Format("Ma TK : {0} ,  So du : {1}", AccNo, Balance);
         }
 
     }

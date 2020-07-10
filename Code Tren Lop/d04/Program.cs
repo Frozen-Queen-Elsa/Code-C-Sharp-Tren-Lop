@@ -51,6 +51,8 @@ namespace d04
                         Console.WriteLine("{0}",atmACC);
                         break;
                 }
+                Console.WriteLine("\nBam 1 phim bat ky de tiep tuc");
+                Console.ReadKey();
             }
         }
 

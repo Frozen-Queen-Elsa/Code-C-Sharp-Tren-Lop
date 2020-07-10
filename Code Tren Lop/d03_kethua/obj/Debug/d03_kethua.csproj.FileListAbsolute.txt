@@ -1,0 +1,7 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\obj\Debug\d03_kethua.csprojAssemblyReference.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\obj\Debug\d03_kethua.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\bin\Debug\d03_kethua.exe.config
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\bin\Debug\d03_kethua.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\bin\Debug\d03_kethua.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\obj\Debug\d03_kethua.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d03_kethua\obj\Debug\d03_kethua.pdb

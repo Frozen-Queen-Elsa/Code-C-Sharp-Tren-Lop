@@ -1,0 +1,7 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\bin\Debug\d04.exe.config
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\bin\Debug\d04.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\bin\Debug\d04.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\obj\Debug\d04.csprojAssemblyReference.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\obj\Debug\d04.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\obj\Debug\d04.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d04\obj\Debug\d04.pdb

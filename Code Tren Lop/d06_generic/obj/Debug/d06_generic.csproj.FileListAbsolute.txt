@@ -1,0 +1,7 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\bin\Debug\d06_generic.exe.config
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\bin\Debug\d06_generic.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\bin\Debug\d06_generic.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\obj\Debug\d06_generic.csprojAssemblyReference.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\obj\Debug\d06_generic.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\obj\Debug\d06_generic.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_generic\obj\Debug\d06_generic.pdb

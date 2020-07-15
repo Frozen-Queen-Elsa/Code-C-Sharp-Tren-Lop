@@ -1,0 +1,7 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\bin\Debug\d06_Iteractor.exe.config
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\bin\Debug\d06_Iteractor.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\bin\Debug\d06_Iteractor.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\obj\Debug\d06_Iteractor.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\obj\Debug\d06_Iteractor.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\obj\Debug\d06_Iteractor.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d06_Iteractor\obj\Debug\d06_Iteractor.csprojAssemblyReference.cache

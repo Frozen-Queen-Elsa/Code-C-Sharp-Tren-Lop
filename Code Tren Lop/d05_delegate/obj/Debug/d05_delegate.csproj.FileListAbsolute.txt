@@ -1,0 +1,7 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\obj\Debug\d05_delegate.csprojAssemblyReference.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\obj\Debug\d05_delegate.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\bin\Debug\d05_delegate.exe.config
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\bin\Debug\d05_delegate.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\bin\Debug\d05_delegate.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\obj\Debug\d05_delegate.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d05_delegate\obj\Debug\d05_delegate.pdb

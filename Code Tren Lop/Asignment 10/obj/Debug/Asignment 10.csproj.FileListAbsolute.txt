@@ -1,0 +1,7 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\bin\Debug\Asignment 10.exe.config
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\bin\Debug\Asignment 10.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\bin\Debug\Asignment 10.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\obj\Debug\Asignment 10.csprojAssemblyReference.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\obj\Debug\Asignment 10.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\obj\Debug\Asignment 10.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\Asignment 10\obj\Debug\Asignment 10.pdb

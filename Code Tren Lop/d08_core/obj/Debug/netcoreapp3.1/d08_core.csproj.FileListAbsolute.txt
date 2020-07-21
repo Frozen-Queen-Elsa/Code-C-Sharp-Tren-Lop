@@ -1,0 +1,13 @@
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\bin\Debug\netcoreapp3.1\d08_core.exe
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\bin\Debug\netcoreapp3.1\d08_core.deps.json
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\bin\Debug\netcoreapp3.1\d08_core.runtimeconfig.json
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\bin\Debug\netcoreapp3.1\d08_core.runtimeconfig.dev.json
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\bin\Debug\netcoreapp3.1\d08_core.dll
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\bin\Debug\netcoreapp3.1\d08_core.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.csprojAssemblyReference.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.AssemblyInfoInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.AssemblyInfo.cs
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.csproj.CoreCompileInputs.cache
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.dll
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.pdb
+E:\Study\Aptech\Semester2\AP\Code Tren Lop\d08_core\obj\Debug\netcoreapp3.1\d08_core.genruntimeconfig.cache
